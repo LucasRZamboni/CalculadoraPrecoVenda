@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\PreçoDeVenda\PreçoDeVenda\bin\Debug\PreçoDeVenda.exe.config
+C:\Users\Usuario\Desktop\PreçoDeVenda\PreçoDeVenda\bin\Debug\PreçoDeVenda.exe
+C:\Users\Usuario\Desktop\PreçoDeVenda\PreçoDeVenda\bin\Debug\PreçoDeVenda.pdb
+C:\Users\Usuario\Desktop\PreçoDeVenda\PreçoDeVenda\obj\Debug\PreçoDeVenda.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\PreçoDeVenda\PreçoDeVenda\obj\Debug\PreçoDeVenda.Form1.resources
+C:\Users\Usuario\Desktop\PreçoDeVenda\PreçoDeVenda\obj\Debug\PreçoDeVenda.Properties.Resources.resources
+C:\Users\Usuario\Desktop\PreçoDeVenda\PreçoDeVenda\obj\Debug\PreçoDeVenda.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\PreçoDeVenda\PreçoDeVenda\obj\Debug\PreçoDeVenda.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PreçoDeVenda\PreçoDeVenda\obj\Debug\PreçoDeVenda.exe
+C:\Users\Usuario\Desktop\PreçoDeVenda\PreçoDeVenda\obj\Debug\PreçoDeVenda.pdb
